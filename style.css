@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+header {
+    background-color: #20361e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+}
+.container {
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+.article {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.article h2 {
+    margin-top: 0;
+}
+.article p {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #20361e;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
